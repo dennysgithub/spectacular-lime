@@ -30,7 +30,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/noah-big(1).png
+    image: images/noah-big(1)(1).png
   - title_align: left
     content: >
       # Din ranking i Google Maps är kanske inte så bra som du tror.&#xA;
