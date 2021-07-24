@@ -19,7 +19,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: none
     background_color: none
     image: images/noah-big.png
   - features:
