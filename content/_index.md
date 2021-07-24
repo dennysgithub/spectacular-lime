@@ -2,18 +2,8 @@
 title: Home
 sections:
   - title_align: left
-    content: >+
-      ## Din ranking i Google Maps är kanske inte så bra som du tror
-
-
-      Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
-      & era konkurrenter**. Gratis såklart.
-
-
-
-
-      Vänta lite, [varför är inte min ranking så bra som jag
-      tror?](https://smart-turmeric-fa88b.netlify.app/seometoden.se)
+    content: |+
+      ## Din ranking i Google Maps är kanske inte så bra som du tro
 
     content_align: left
     form_position: right
