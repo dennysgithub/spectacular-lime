@@ -115,8 +115,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
