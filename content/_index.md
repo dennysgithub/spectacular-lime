@@ -1,46 +1,6 @@
 ---
 title: Home
 sections:
-  - features:
-      - content: >
-          ## Låt inte konkurrenterna köra över dig
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: SEOmetoden på YouTube
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/nfFlB0pmsWc" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: right
-        media_width: thirty-three
-        align: left
-        type: feature
-    feature_padding_vert: large
-    align: center
-    padding_top: large
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 100
-    background_image_size: contain
-    background_image_position: center top
-    background_image_repeat: no-repeat
-    type: features_section
-    background_image: images/noah-big.png
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
