@@ -29,11 +29,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/hero.png
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/hXetO_bYcMo" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
