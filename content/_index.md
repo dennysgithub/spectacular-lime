@@ -1,6 +1,50 @@
 ---
 title: Home
 sections:
+  - title_align: left
+    content: |+
+      ## Dina konkurrenter fuskar & stjäl dina kunder.
+
+      Låt mig ta reda på om så är fallet och så redovisar jag för dig efteråt.
+
+    content_align: left
+    form_position: right
+    form_width: fifty
+    form_layout: stacked
+    enable_card: true
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
+    submit_label: lorem-ipsum
+    align_vert: top
+    padding_top: large
+    padding_bottom: large
+    has_border: false
+    background_color: primary
+    background_image_opacity: 50
+    background_image_size: cover
+    background_image_position: left bottom
+    background_image_repeat: no-repeat
+    type: form_section
+    background_image: images/purple-wallaby.JPG
   - title: Jag vill få in dig i det lokala 3-packet.
     subtitle: >-
       I will handle your website design and production, social media accounts
@@ -126,50 +170,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - title_align: left
-    content: |+
-      ## Dina konkurrenter fuskar & stjäl dina kunder.
-
-      Låt mig ta reda på om så är fallet och så redovisar jag för dig efteråt.
-
-    content_align: left
-    form_position: right
-    form_width: fifty
-    form_layout: stacked
-    enable_card: true
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: text
-        name: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-    submit_label: lorem-ipsum
-    align_vert: top
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: primary
-    background_image_opacity: 50
-    background_image_size: cover
-    background_image_position: left bottom
-    background_image_repeat: no-repeat
-    type: form_section
-    background_image: images/purple-wallaby.JPG
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
