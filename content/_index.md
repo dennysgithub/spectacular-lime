@@ -14,7 +14,7 @@ sections:
       tror?](https://smart-turmeric-fa88b.netlify.app/seometoden.se)
     content_align: left
     form_position: right
-    form_width: fifty
+    form_width: fourty
     form_layout: stacked
     enable_card: true
     form_id: contact-form
