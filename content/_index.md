@@ -41,7 +41,7 @@ sections:
     has_border: false
     background_color: primary
     background_image_opacity: 50
-    background_image_size: contain
+    background_image_size: cover
     background_image_position: left bottom
     background_image_repeat: no-repeat
     type: form_section
