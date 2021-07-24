@@ -13,7 +13,7 @@ sections:
       Vänta lite, [varför är inte min ranking så bra som jag
       tror?](https://smart-turmeric-fa88b.netlify.app/seometoden.se)
     content_align: left
-    form_position: right
+    form_position: bottom
     form_width: fourty
     form_layout: stacked
     enable_card: true
