@@ -3,14 +3,10 @@ title: Home
 sections:
   - title_align: left
     content: >
+      \<br>
 
 
-
-
-
-
-
-
+      \<br>
 
 
       Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
