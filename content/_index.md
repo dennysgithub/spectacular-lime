@@ -75,7 +75,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: SEOmetoden på YouTube
             url: '#'
             style: link
             has_icon: false
