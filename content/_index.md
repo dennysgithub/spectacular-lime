@@ -19,7 +19,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: none
+    padding_bottom: large
     background_color: none
     image: images/dianne-ameter.jpg
   - features:
