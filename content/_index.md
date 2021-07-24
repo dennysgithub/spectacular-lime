@@ -42,7 +42,7 @@ sections:
     background_color: primary
     background_image_opacity: 50
     background_image_size: cover
-    background_image_position: right top
+    background_image_position: right bottom
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/purple-wallaby.JPG
