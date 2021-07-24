@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: none
     background_color: none
-    image: images/noah-big.png
+    image: images/dianne-ameter.jpg
   - features:
       - content: >
           ## Lorem ipsum
