@@ -27,7 +27,7 @@ sections:
         name: Webbplats
         default_value: Webbplats URL
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     align_vert: top
