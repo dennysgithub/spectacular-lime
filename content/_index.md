@@ -109,8 +109,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
