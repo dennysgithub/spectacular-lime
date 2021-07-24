@@ -37,7 +37,6 @@ sections:
         type: form_field
       - input_type: email
         name: Mejl
-        label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
         is_required: false
