@@ -2,17 +2,17 @@
 title: Home
 sections:
   - title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Din ranking i Google Maps är kanske inte så bra som du tror
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     content_align: left
     form_position: bottom
     form_width: fifty
