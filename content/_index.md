@@ -108,17 +108,17 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ## Vill du ha mer trafik?
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     media_position: right
