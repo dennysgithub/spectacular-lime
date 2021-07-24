@@ -3,7 +3,7 @@ title: Home
 sections:
   - features:
       - content: >
-          ## Lorem ipsum
+          ## Låt inte konkurrenterna köra över dig
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
