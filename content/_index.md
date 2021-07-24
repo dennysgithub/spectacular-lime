@@ -3,9 +3,6 @@ title: Home
 sections:
   - title_align: left
     content: >
-      # Din ranking i Google Maps är kanske inte så bra som du tror.
-
-
       Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
       & era konkurrenter**. Gratis såklart.
 
