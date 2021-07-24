@@ -57,7 +57,7 @@ sections:
     background_color: none
     background_image_opacity: 100
     background_image_size: contain
-    background_image_position: left bottom
+    background_image_position: right bottom
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/noah-big.png
