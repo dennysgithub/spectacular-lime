@@ -52,7 +52,7 @@ sections:
     background_color: primary
     background_image_opacity: 40
     background_image_size: cover
-    background_image_position: right center
+    background_image_position: right bottom
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/blonde-girl-against-white-background-web.jpg
