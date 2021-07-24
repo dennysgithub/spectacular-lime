@@ -73,7 +73,7 @@ sections:
     padding_bottom: large
     has_border: false
     background_color: none
-    background_image_opacity: 40
+    background_image_opacity: 100
     background_image_size: contain
     background_image_position: center center
     background_image_repeat: no-repeat
