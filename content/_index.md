@@ -37,7 +37,7 @@ sections:
         type: form_field
       - input_type: email
         name: Mejl
-        default_value: lorem-ipsum
+        default_value: Din mejl
         options: []
         is_required: false
         type: form_field
