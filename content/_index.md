@@ -37,12 +37,6 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: email
-        name: Mejl
-        default_value: Din mejl
-        options: []
-        is_required: true
-        type: form_field
       - input_type: tel
         name: tele
         default_value: Ditt telefonnummer
