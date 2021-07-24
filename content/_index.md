@@ -3,10 +3,7 @@ title: Home
 sections:
   - title_align: left
     content: >
-      \<br>
-
-
-      \<br>
+      # Din ranking i Google Maps är kanske inte så bra som du tror.&#xA;
 
 
       Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
