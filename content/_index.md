@@ -35,16 +35,6 @@ sections:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title_align: left
-    content: >
-      # Din ranking i Google Maps är kanske inte så bra som du tror.&#xA;
-
-
-      Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
-      & era konkurrenter**. Gratis såklart.
-
-
-      Vänta lite, [varför är inte min ranking så bra som jag
-      tror?](https://smart-turmeric-fa88b.netlify.app/seometoden.se)
     content_align: left
     form_position: right
     form_width: fourty
