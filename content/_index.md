@@ -2,17 +2,19 @@
 title: Home
 sections:
   - title_align: left
-    content: >
+    content: >+
       ## Din ranking i Google Maps är kanske inte så bra som du tror
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
+      & era konkurrenter**. Gratis såklart.
 
 
-      *   Lorem ipsum
 
-      *   dolor sit amet
+
+      Vänta lite, [varför är inte min ranking så bra som jag
+      tror?](https://smart-turmeric-fa88b.netlify.app/seometoden.se)
+
     content_align: left
     form_position: bottom
     form_width: fifty
