@@ -61,6 +61,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image: images/noah-big.png
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
