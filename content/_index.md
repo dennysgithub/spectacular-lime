@@ -40,7 +40,7 @@ sections:
     background_image_position: center top
     background_image_repeat: no-repeat
     type: features_section
-    background_image: images/dianne-ameter.jpg
+    background_image: images/noah-big.png
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
