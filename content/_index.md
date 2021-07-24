@@ -21,6 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    image: images/brandon-guidelines.png
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
