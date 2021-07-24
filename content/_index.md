@@ -61,7 +61,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    image: images/dianne-ameter.jpg
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
