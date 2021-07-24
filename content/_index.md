@@ -153,7 +153,9 @@ sections:
     feature_padding_vert: small
     background_color: none
   - title: 'Hi, I’m Alyvia. I help my clients succeed online.'
-    subtitle: lorem-ipsum
+    subtitle: >-
+      I will handle your website design and production, social media accounts
+      and digital advertisements for you, at an affordable price.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
