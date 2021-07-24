@@ -2,9 +2,8 @@
 title: Home
 sections:
   - title_align: left
-    content: |+
-      ## Din ranking i Google Maps är kanske inte så bra som du tro
-
+    content: |
+      ## Din ranking i Google Maps 
     content_align: left
     form_position: right
     form_width: fourty
