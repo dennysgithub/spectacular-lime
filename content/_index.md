@@ -75,8 +75,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
