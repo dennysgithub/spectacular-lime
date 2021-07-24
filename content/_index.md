@@ -47,7 +47,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Fånga fuskande konkurrenter
+    submit_label: Fånga fuskare
     align_vert: top
     padding_top: large
     padding_bottom: large
