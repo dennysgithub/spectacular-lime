@@ -89,10 +89,6 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     title: Din ranking i Google Maps är kanske inte så bra som du tror.
-    subtitle: >-
-      Hämta hem en färgglatt illustrerande analys över er Google Maps ranking &
-      era konkurrenter. Gratis såklart.  Vänta lite, varför är inte min ranking
-      så bra som jag tror?
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
