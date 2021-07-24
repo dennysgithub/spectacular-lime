@@ -46,7 +46,7 @@ sections:
         type: form_field
     submit_label: Analysera min GMB ranking
     align_vert: top
-    padding_top: none
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: primary
