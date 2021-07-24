@@ -45,7 +45,7 @@ sections:
     background_image_position: right bottom
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/purple-wallaby.JPG
+    background_image: images/dianne-ameter.jpg
   - title: Jag vill få in dig i det lokala 3-packet.
     subtitle: >-
       I will handle your website design and production, social media accounts
