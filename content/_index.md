@@ -47,7 +47,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Jag vill fånga fuskare
+    submit_label: Fånga fuskande konkurrenter
     align_vert: top
     padding_top: large
     padding_bottom: large
