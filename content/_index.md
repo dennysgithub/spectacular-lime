@@ -47,7 +47,7 @@ sections:
         name: tele
         default_value: Ditt telefonnummer
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Analysera min GMB ranking
     align_vert: top
