@@ -29,7 +29,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-    feature_padding_vert: small
+    feature_padding_vert: large
     align: center
     padding_top: medium
     padding_bottom: medium
