@@ -1,6 +1,36 @@
 ---
 title: Home
 sections:
+  - content: >
+      ## Vill du ha mer trafik?
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    actions:
+      - label: Börja nu
+        url: '#'
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: lorem-ipsum
+    media_position: right
+    media_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/noah-big.png
   - title_align: left
     content: >
       # Din ranking i Google Maps är kanske inte så bra som du tror.&#xA;
@@ -108,36 +138,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - content: >
-      ## Vill du ha mer trafik?
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    actions:
-      - label: Börja nu
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: lorem-ipsum
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/noah-big.png
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
