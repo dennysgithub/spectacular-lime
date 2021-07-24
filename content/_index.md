@@ -157,7 +157,7 @@ sections:
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
     actions:
-      - label: lorem-ipsum
+      - label: Inled en diskussion
         url: '#'
         style: link
         has_icon: false
