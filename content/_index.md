@@ -175,7 +175,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/dianne-ameter.jpg
+    background_image: images/magnificent-turtle.JPG
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
