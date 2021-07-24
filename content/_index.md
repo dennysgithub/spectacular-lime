@@ -2,12 +2,15 @@
 title: Home
 sections:
   - title_align: left
-    content: |
+    content: >
       # Dina konkurrenter fuskar & stjäl dina kunder.
 
-      Låt mig ta reda på om så är fallet och så redovisar jag för dig efteråt.
 
-      Google My Business är din guldgruva och dom plockar dig där.
+      ## Låt mig ta reda på om så är fallet och så redovisar jag för dig
+      efteråt.
+
+
+      ## Google My Business är din guldgruva och dom plockar dig där.
     content_align: left
     form_position: right
     form_width: fifty
