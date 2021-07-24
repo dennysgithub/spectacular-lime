@@ -55,7 +55,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/dianne-ameter.jpg
+    background_image: images/blonde-girl-against-white-background-web.jpg
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
