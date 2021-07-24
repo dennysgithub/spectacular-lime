@@ -152,7 +152,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - title: lorem-ipsum
+  - title: 'Hi, I’m Alyvia. I help my clients succeed online.'
     subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
