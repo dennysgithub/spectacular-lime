@@ -30,7 +30,7 @@ sections:
         align: left
         type: feature
     feature_padding_vert: large
-    align: left
+    align: center
     padding_top: large
     padding_bottom: medium
     has_border: false
