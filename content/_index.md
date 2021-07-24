@@ -34,52 +34,6 @@ sections:
       src="https://www.youtube.com/embed/hXetO_bYcMo" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - title_align: left
-    content_align: left
-    form_position: right
-    form_width: fourty
-    form_layout: stacked
-    enable_card: true
-    form_id: contact-form
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: text
-        name: Webbplats
-        default_value: Webbplats URL
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: text
-        name: Namn
-        default_value: Ditt namn
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: email
-        name: Mejl
-        default_value: Din mejl
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: tel
-        name: tele
-        default_value: Ditt telefonnummer
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: Analysera min GMB ranking
-    align_vert: top
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: none
-    background_image_opacity: 100
-    background_image_size: contain
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-    title: Din ranking i Google Maps är kanske inte så bra som du tror.
-    background_image: images/noah-big(1)(1).png
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
