@@ -41,28 +41,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/noah-big.png
-  - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
-    actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
-      - label: Learn More
-        url: /features
-        style: secondary
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image: images/noah-big.png
-    background_image_position: right top
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
