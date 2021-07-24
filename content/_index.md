@@ -126,8 +126,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
