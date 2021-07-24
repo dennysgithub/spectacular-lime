@@ -79,6 +79,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     title: Din ranking i Google Maps är kanske inte så bra som du tror.
+    background_image: images/noah-big(1)(1).png
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
