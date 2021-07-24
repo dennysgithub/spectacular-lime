@@ -47,7 +47,7 @@ sections:
     submit_label: Analysera min GMB ranking
     align_vert: top
     padding_top: large
-    padding_bottom: large
+    padding_bottom: none
     has_border: false
     background_color: primary
     background_image_opacity: 40
