@@ -43,7 +43,7 @@ sections:
         type: form_field
       - input_type: tel
         name: tele
-        default_value: lorem-ipsum
+        default_value: Ditt telefon
         options: []
         is_required: false
         type: form_field
