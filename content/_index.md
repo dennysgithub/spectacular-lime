@@ -2,15 +2,19 @@
 title: Home
 sections:
   - title_align: left
-    content: >
-      # Dina konkurrenter fuskar & stjäl dina kunder.
+    content: >+
+      # Din ranking i Google Maps är kanske inte så bra som du tror.
 
 
-      ##### Låt mig ta reda på om så är fallet och så redovisar jag för dig
-      efteråt.
+      Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
+      & era konkurrenter**. Gratis såklart.
 
 
-      ##### Google My Business är din guldgruva och dom plockar dig där.
+      Vänta lite, [varför är inte min ranking så bra som jag
+      tror?](https://seometoden.se/seometoden.se)
+
+
+
     content_align: left
     form_position: right
     form_width: fourty
