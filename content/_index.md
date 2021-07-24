@@ -3,7 +3,7 @@ title: Home
 sections:
   - title_align: left
     content: |
-      ## Dina konkurrenter fuskar & stjäl dina kunder.
+      # Dina konkurrenter fuskar & stjäl dina kunder.
 
       Låt mig ta reda på om så är fallet och så redovisar jag för dig efteråt.
 
