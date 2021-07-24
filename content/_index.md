@@ -4,7 +4,7 @@ sections:
   - title_align: left
     content: |
       ## Din ranking i Google Maps 
-    content_align: center
+    content_align: left
     form_position: right
     form_width: fourty
     form_layout: stacked
