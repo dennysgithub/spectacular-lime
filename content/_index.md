@@ -55,7 +55,7 @@ sections:
     background_image_position: left bottom
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/noah-big.png
+    background_image: images/dianne-ameter.jpg
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
