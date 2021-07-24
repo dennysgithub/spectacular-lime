@@ -43,7 +43,7 @@ sections:
         type: form_field
       - input_type: tel
         name: tele
-        default_value: Ditt telefon
+        default_value: Ditt telefonnummer
         options: []
         is_required: false
         type: form_field
