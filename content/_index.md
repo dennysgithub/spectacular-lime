@@ -37,12 +37,6 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: tel
-        name: tele
-        default_value: Ditt telefonnummer
-        options: []
-        is_required: true
-        type: form_field
     submit_label: Analysera min GMB ranking
     align_vert: top
     padding_top: medium
