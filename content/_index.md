@@ -13,7 +13,7 @@ sections:
       ##### Google My Business är din guldgruva och dom plockar dig där.
     content_align: left
     form_position: right
-    form_width: sixty
+    form_width: fourty
     form_layout: stacked
     enable_card: true
     form_id: lorem-ipsum
