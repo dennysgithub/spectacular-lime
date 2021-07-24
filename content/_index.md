@@ -45,7 +45,6 @@ sections:
         type: form_field
       - input_type: tel
         name: tele
-        label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
         is_required: false
