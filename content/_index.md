@@ -127,17 +127,11 @@ sections:
     feature_padding_vert: small
     background_color: none
   - title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      ## Dina konkurrenter fuskar & stjäl dina kunder.
 
+      Låt mig ta reda på om så är fallet och så redovisar jag för dig efteråt.
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     content_align: left
     form_position: right
     form_width: fifty
