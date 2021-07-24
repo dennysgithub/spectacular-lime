@@ -18,15 +18,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Rådgivning
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="560" height="315"
