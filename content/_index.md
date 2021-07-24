@@ -108,7 +108,7 @@ sections:
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
-    background_color: primary
+    background_color: none
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
