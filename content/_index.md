@@ -115,47 +115,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
-  - actions: []
-    grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: contain
-    background_image_position: center bottom
-    background_image_repeat: no-repeat
-    type: grid_section
-    background_image: images/noah-big.png
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
