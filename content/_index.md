@@ -28,7 +28,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/DSCN0758.JPG
+    image: images/super-sycamore.JPG
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
