@@ -21,7 +21,7 @@ sections:
     form_position: right
     form_width: fourty
     form_layout: stacked
-    enable_card: true
+    enable_card: false
     form_id: contact-form
     form_action: lorem-ipsum
     form_fields:
