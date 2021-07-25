@@ -28,11 +28,12 @@ sections:
           rankingresultat kan vara knepigt, ta kontakt så hjälper jag till.**
 
       - title: Var ska småföretagare börja?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >+
+          Med en SEO analys så du hittar läckorna och kan täppa igen dem. **Jag
+          rekommenderar också starkt att göra en ordentlig optimering av er
+          Google My Business profil och utföra *spam fighting* på
+          konkurrenter.**
+
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
