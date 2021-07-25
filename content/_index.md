@@ -65,10 +65,17 @@ sections:
     features:
       - title: Det lokala 3-packet är din snabbaste väg till fler kunder idag.
         subtitle: Google My Business är var lokala företagare håvar in kunderna.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+
+
+          *   Det lokala 3-packet är det första kunder ser i [93% av
+          Google-sökningar.](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/)
+
+
+          *   [Kunder litar på det lokala
+          3-packet](https://www.searchenginewatch.com/2015/08/27/google-local-pack-is-233-percent-more-important/)
+          **mer än det organiska (vanliga) sökresultatet & annonser
+          kombinerat!**
         actions:
           - label: Learn More
             url: /style-guide
