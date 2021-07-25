@@ -158,7 +158,7 @@ sections:
           Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
           viktiga är att jag faktiskt kan hjälpa er. Kan jag inte det så åtar
           jag mig inte heller jobbet.
-        image: images/smiling-tiger.png
+        image: images/dennis.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
