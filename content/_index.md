@@ -58,7 +58,7 @@ sections:
     background_image_position: left bottom
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/knowledgeable-giraffe.PNG
+    background_image: images/curious-ant.PNG
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
