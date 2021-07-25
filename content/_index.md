@@ -163,7 +163,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: lorem-ipsum
+          - label: Inled en diskussion
             url: '#'
             style: link
             has_icon: false
