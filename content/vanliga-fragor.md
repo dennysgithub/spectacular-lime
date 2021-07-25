@@ -5,10 +5,11 @@ sections:
     title: Vanliga frågor & svar
     grid_items:
       - title: Vad är SEO?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |+
+          Välkommen till Google & Bing, dagens telefonböcker. Istället för att
+           baseras på alfabetisk ordning är det sökmotorernas parametrar som 
+          bestämmer. SEO hjälper dig vara överrens med dem.
+
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
