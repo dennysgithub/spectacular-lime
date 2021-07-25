@@ -11,10 +11,13 @@ sections:
           bestämmer. SEO hjälper dig vara överrens med dem.
 
       - title: Är SEO viktigare för vissa företag?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Ja! Det är viktigt för BTC företag (business-to-consumer) som gör
+          många 
+
+          individuella jobb ex; målare, fönsterputsare, frisörer, takläggare,
+          etc.
+
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
