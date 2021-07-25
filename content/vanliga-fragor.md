@@ -34,7 +34,7 @@ sections:
           Google My Business profil och utföra *spam fighting* på
           konkurrenter.**
 
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: Hur lång tid tar SEO?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
