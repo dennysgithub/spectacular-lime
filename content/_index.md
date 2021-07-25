@@ -92,7 +92,7 @@ sections:
     subtitle: Här börjar din resa till fler kunder.
     features:
       - title: Det lokala 3-packet är din snabbaste väg till fler kunder idag.
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Google My Business är var lokala företagare håvar in kunderna.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
