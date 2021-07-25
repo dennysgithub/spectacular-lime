@@ -40,8 +40,7 @@ sections:
           tydliga resultat. **I Google My Business** däremot kan man se resultat
           betydligt kvickare beroende på hur motståndet ser ut.
 
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
