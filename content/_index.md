@@ -91,7 +91,7 @@ sections:
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
     features:
-      - title: The Big Title For the Feature
+      - title: Det lokala 3-packet är din snabbaste väg till fler kunder idag.
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
