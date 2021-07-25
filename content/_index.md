@@ -58,7 +58,7 @@ sections:
     background_image_position: right bottom
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/curious-ant.PNG
+    background_image: images/NYASTE-PROFIL-HERO-TRANSPARENT.PNG
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
