@@ -59,34 +59,6 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: images/dianne-ameter.jpg
-  - title: Jag vill få in dig i det lokala 3-packet.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
-    actions:
-      - label: Inled en diskussion
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: lorem-ipsum
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/google-maps-3-pack.png
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
