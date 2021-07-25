@@ -21,7 +21,7 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
+            url: /kontaktformular
             style: link
             has_icon: true
             icon: arrow-right
