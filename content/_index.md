@@ -118,7 +118,7 @@ sections:
           kunder.
 
 
-          a del av tips & råd, fallgropar och saker akta sig för. 
+          Ta del av tips & råd, fallgropar och saker akta sig för.
         actions:
           - label: SEOmetoden på YouTube
             url: '#'
