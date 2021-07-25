@@ -88,10 +88,24 @@ sections:
         media_position: right
         media_width: fifty
       - title: Är hemsidan full av fönstershoppare?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+
+
+          **Trafik till hemsidan är totalt värdelös om den inte generar leads.**
+          Du vill så klart att folk ska ringa, mejla, besöka er på plats.
+
+
+          Hur många besökare lämnar sidan utan att göra något?
+
+
+          En hemsida som inte konverterar besökare till kunder kan bero på 
+
+          olika saker. Designen av hemsidan kan fungera dåligt på mobila 
+
+          plattformar, hemsidan kanske laddas långsamt, dåliga CTA’s, m.m.
+
+
+          Är ni osäkra så hjälper jag er lösa mysteriet!
         actions:
           - label: Learn More
             url: /style-guide
