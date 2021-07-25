@@ -41,17 +41,16 @@ sections:
           betydligt kvickare beroende på hur motståndet ser ut.
 
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          En klockmakare kan ta betalt i efterhand för om du inte betalar så
+          behåller han klockan.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          En takläggare kan ta tillbaka taket.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Men digitalt SEO arbete går inte att ta tillbaka, därför måste det
+          betalas i förskott.
         content_align: left
         actions: []
         actions_align: left
