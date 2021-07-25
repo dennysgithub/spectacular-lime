@@ -62,6 +62,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        title: Varför kräver SEO förskottsbetalning?
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
