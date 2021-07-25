@@ -38,7 +38,7 @@
         "secondary_nav_links": [
             {
                 "label": "YouTube",
-                "url": "/contact",
+                "url": "/kontakt",
                 "style": "secondary",
                 "has_icon": true,
                 "icon": "youtube"
