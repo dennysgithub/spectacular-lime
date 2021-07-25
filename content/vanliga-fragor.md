@@ -10,7 +10,7 @@ sections:
            baseras på alfabetisk ordning är det sökmotorernas parametrar som 
           bestämmer. SEO hjälper dig vara överrens med dem.
 
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Är SEO viktigare för vissa företag?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
