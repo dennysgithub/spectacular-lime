@@ -88,7 +88,7 @@ sections:
     type: hero_section
     image: images/google-maps-3-pack.png
   - type: features_section
-    title: Features Section
+    title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
     features:
       - title: The Big Title For the Feature
