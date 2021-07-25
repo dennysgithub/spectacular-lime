@@ -64,17 +64,7 @@ sections:
         title: Varför kräver SEO förskottsbetalning?
       - title: Vad menas med sökmotoroptimerad hemsida?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "är ett sätt att utforma och utveckla webbplatser för att göra \ndem sökmotorvänliga. Att göra en webbplats SEO-vänlig innebär att Google\n och andra sökmotorer kan genomsöka varje sida på webbplatsen effektivt,\n tolka innehållet effektivt och indexera det i sin databas.\n\nEn sökmotoroptimerad hemsida innebär att Google & andra sökmotorer kan genomsöka den effektivt samt tolka inn\n\n\n\t\t\t\t\t\n\n"
         content_align: left
         actions: []
         actions_align: left
