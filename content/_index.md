@@ -77,7 +77,7 @@ sections:
           **mer än det organiska (vanliga) sökresultatet & annonser
           kombinerat!**
         actions:
-          - label: Learn More
+          - label: Lär dig mer
             url: /style-guide
             style: primary
             has_icon: true
