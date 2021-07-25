@@ -94,7 +94,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Kontakt
     - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
