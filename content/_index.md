@@ -78,7 +78,7 @@ sections:
           kombinerat!**
         actions:
           - label: Lär dig mer
-            url: /style-guide
+            url: '/#lar-dig-mer'
             style: primary
             has_icon: true
             icon: arrow-right
