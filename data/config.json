@@ -39,7 +39,7 @@
             {
                 "label": "YouTube",
                 "url": "/contact",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Get Started",
