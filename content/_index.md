@@ -114,7 +114,7 @@ sections:
     padding_top: medium
   - features:
       - content: >
-          ## Lär dig mer om hur du nyttjar Google My Business för att få fler
+          ### Lär dig mer om hur du nyttjar Google My Business för att få fler
           kunder.
 
 
