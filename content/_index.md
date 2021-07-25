@@ -113,17 +113,12 @@ sections:
     background_color: none
     padding_top: medium
   - features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          ## Lär dig mer om hur du nyttjar Google My Business för att få fler
+          kunder.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          a del av tips & råd, fallgropar och saker akta sig för. 
         actions:
           - label: SEOmetoden på YouTube
             url: '#'
