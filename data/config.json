@@ -39,7 +39,8 @@
             {
                 "label": "YouTube",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "secondary",
+                "has_icon": true
             },
             {
                 "label": "Get Started",
