@@ -62,7 +62,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Varför kräver SEO förskottsbetalning?
-      - title: lorem-ipsum
+      - title: Vad menas med sökmotoroptimerad hemsida?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
