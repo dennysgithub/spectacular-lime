@@ -98,7 +98,7 @@ sections:
 
           Är ni osäkra så hjälper jag er lösa mysteriet!
         actions:
-          - label: Learn More
+          - label: Jag vill lösa mysteriet
             url: /style-guide
             style: primary
             has_icon: true
