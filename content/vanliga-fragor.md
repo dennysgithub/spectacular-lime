@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: Vanliga frågor & svar
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
