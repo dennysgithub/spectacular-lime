@@ -65,7 +65,7 @@
         "secondary_nav_title": "Information",
         "secondary_nav_links": [
             {
-                "label": "General",
+                "label": "Vanliga frågor & svar",
                 "url": "/blog/category/general",
                 "style": "link"
             },
