@@ -80,7 +80,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Villkor",
-                "url": "/terms-conditions",
+                "url": "/villkor",
                 "style": "link"
             },
             {
