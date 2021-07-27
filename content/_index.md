@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: lorem-ipsum
+  - title: Nummer två är bäst.
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
