@@ -2,7 +2,9 @@
 title: Home
 sections:
   - title: Nummer två är bäst.
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Det viktiga är inte att vara nummer ett. Det viktiga är att dyka upp i så
+      många lokala 3-pack som möjligt.
     content: >-
       ## Lorem ipsum
 
