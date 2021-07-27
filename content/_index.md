@@ -22,7 +22,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Lär dig mer
         url: '#'
         style: link
         has_icon: false
