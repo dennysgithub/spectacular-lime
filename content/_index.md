@@ -58,7 +58,7 @@ sections:
     background_image_position: right center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/robust-wallaby.png
+    background_image: images/smiling-sycamore.png
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
