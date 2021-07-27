@@ -5,17 +5,13 @@ sections:
     subtitle: >-
       Det viktiga är inte att vara nummer ett. Det viktiga är att dyka upp i så
       många lokala 3-pack som möjligt.
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Med min rankinganalys tar jag reda på hur du syns i över 100 olika Google
+      Maps sökresultat och vi får reda på alla lokala 3-pack där du bör satsa på
+      att ta dig in i.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Osäker på om det är värt att bry sig? Klicka på lär dig mer.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
