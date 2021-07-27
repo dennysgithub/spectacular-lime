@@ -33,7 +33,7 @@ sections:
         type: action
     image_alt: hero
     media_position: left
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: medium
     padding_bottom: medium
