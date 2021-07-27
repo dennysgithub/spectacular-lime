@@ -13,7 +13,7 @@ sections:
 
       Osäker på om det är värt att bry sig? Klicka på lär dig mer.
     actions:
-      - label: lorem-ipsum
+      - label: Gratis rankinganalys
         url: '#'
         style: link
         has_icon: false
