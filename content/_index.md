@@ -47,6 +47,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/hero.jpg
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
