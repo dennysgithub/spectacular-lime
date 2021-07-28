@@ -47,7 +47,7 @@ sections:
     image: images/remarkable-pineapple.jpg
   - features:
       - content: >
-          ### Visste du att konkurrenter fuskar & stjäl dina kunder?
+          ### Visste du att konkurrenter fuskar & stjäl kunder?
 
 
           Det är mycket möjligt att flera av dina konkurrenter inte följer
