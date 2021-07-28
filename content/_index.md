@@ -47,11 +47,11 @@ sections:
     image: images/remarkable-pineapple.jpg
   - features:
       - content: >
-          ### Visste du att konkurrenterna fuskar & **stjäl dina kunder?**
+          ### Visste du att konkurrenterna fuskar & stjäl dina kunder?
 
 
-          Kolla på videon för att se vad jag pratar om & glöm inte att ta del av
-          fler tips & råd gällande GMB på YouTube.
+          Det är mycket möjligt att flera av dina konkurrenter inte följer
+          Google's riktlinjer och pga det **förlorar du kunder.**
         actions:
           - label: SEOmetoden på YouTube
             url: '#'
