@@ -22,7 +22,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Se ett smakprov
+      - label: Varför rankinganalys?
         url: '#'
         style: secondary
         has_icon: false
