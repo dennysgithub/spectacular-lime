@@ -49,7 +49,7 @@ sections:
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
     features:
-      - title: Det lokala 3-packet är din snabbaste väg till fler kunder idag.
+      - title: Google My Business är din snabbaste väg till fler kunder idag.
         subtitle: Google My Business är var lokala företagare håvar in kunderna.
         content: >
 
