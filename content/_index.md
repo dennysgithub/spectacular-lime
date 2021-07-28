@@ -50,11 +50,11 @@ sections:
       - title: Varför är Google My Business viktigt?
         subtitle: Det lokala 3-packet är var lokala företagare håvar in kunderna.
         content: |
-          1.  Det är framtiden för ditt lokala företag. 
+          *   Det är framtiden för ditt lokala företag.
 
-          2.  Här vill du investera tid och energi. 
+          *   Här vill du investera tid och energi.
 
-          3.  Läs blogginlägget så kommer du att förstå vikten av optimerad GMB.
+          *   Läs blogginlägget så kommer du att förstå vikten av optimerad GMB.
         actions:
           - label: Lär dig mer
             url: '#lar-dig-mer'
