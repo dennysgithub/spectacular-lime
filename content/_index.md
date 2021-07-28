@@ -46,7 +46,6 @@ sections:
     type: hero_section
     image: images/hero_rounded.jpg
   - type: features_section
-    title: Är du en lokal företagare?
     features:
       - title: Google My Business är din snabbaste väg till fler kunder idag.
         subtitle: Det lokala 3-packet är var lokala företagare håvar in kunderna.
