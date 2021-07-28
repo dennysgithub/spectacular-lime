@@ -53,7 +53,7 @@ sections:
           Det är mycket möjligt att flera av dina konkurrenter inte följer
           Google's riktlinjer och pga det **förlorar du kunder.**
         actions:
-          - label: SEOmetoden på YouTube
+          - label: Se mer på YouTube
             url: '#'
             style: primary
             has_icon: false
