@@ -22,7 +22,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Varför rankinganalys?
+      - label: Varför analysera ranking?
         url: '#'
         style: secondary
         has_icon: false
