@@ -78,12 +78,11 @@ sections:
     padding_bottom: small
   - features:
       - content: >
-          ### Stoppa fusket! Visste du att konkurrenterna fuskar & **stjäl dina
-          kunder?**
+          ### Visste du att konkurrenterna fuskar & **stjäl dina kunder?**
 
 
           Kolla på videon för att se vad jag pratar om & glöm inte att ta del av
-          fler tips & råd gällande GMB på YouTube. 
+          fler tips & råd gällande GMB på YouTube.
         actions:
           - label: SEOmetoden på YouTube
             url: '#'
