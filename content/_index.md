@@ -82,8 +82,8 @@ sections:
           kunder?**
 
 
-          Ta del av fler tips & råd, fallgropar och saker akta sig för gällande
-          Google My Business på YouTube.
+          Kolla på videon för att se vad jag pratar om & glöm inte att ta del av
+          fler tips & råd gällande GMB på YouTube. 
         actions:
           - label: SEOmetoden på YouTube
             url: '#'
