@@ -44,7 +44,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/remarkable-pineapple.jpg
+    image: images/asdasd.jpg
   - features:
       - content: >
           ### Visste du att konkurrenter fuskar & stjäl kunder?
