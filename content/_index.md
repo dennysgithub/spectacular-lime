@@ -44,7 +44,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/hero_rounded_stor_canvas.jpg
+    image: images/hero_rounded_mellan_canvas.jpg
   - type: features_section
     features:
       - title: Google My Business är din snabbaste väg till fler kunder idag.
