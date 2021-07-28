@@ -75,7 +75,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-    padding_bottom: none
+    padding_bottom: large
   - features:
       - content: >
           ### Lär dig mer om hur du nyttjar Google My Business för att få fler
