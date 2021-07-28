@@ -52,6 +52,9 @@ sections:
         content: >
           Det är framtiden för ditt lokala företag. Här vill du investera tid
           och energi.
+
+
+          Läs blogginlägget så kommer du att förstå vikten av optimerad GMB.
         actions:
           - label: Lär dig mer
             url: '#lar-dig-mer'
