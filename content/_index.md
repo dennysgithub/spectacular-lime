@@ -59,7 +59,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/google-maps-3-pack_annu_storre_canvas_OCH_scaled.png
+        image: images/google-maps-3-pack_TESTannu_storre_canvas_OCH_scaled.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
