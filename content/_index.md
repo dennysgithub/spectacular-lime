@@ -71,27 +71,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Är hemsidan full av fönstershoppare?
-        content: >
-          **Trafik till hemsidan är totalt värdelös om den inte generar leads.**
-          Du vill så klart att folk ska ringa, mejla, besöka er på plats.
-
-
-          Hur många besökare lämnar sidan utan att göra något?
-
-
-          Är ni osäkra så hjälper jag er lösa mysteriet!
-        actions:
-          - label: Jag vill lösa mysteriet
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/avvisningsfrekvens.png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: none
