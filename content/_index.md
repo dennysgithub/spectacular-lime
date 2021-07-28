@@ -44,7 +44,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/asdasd.png
+    image: images/nyasddad.png
   - features:
       - content: >
           ### Visste du att konkurrenter fuskar & stjäl kunder?
