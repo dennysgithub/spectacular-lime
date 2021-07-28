@@ -78,11 +78,12 @@ sections:
     padding_bottom: small
   - features:
       - content: >
-          ### Lär dig mer om hur du nyttjar Google My Business för att få fler
-          kunder.
+          ### Stoppa fusket! Visste du att konkurrenterna fuskar & **stjäl dina
+          kunder?**
 
 
-          Ta del av tips & råd, fallgropar och saker akta sig för.
+          Ta del av fler tips & råd, fallgropar och saker akta sig för gällande
+          Google My Business på YouTube.
         actions:
           - label: SEOmetoden på YouTube
             url: '#'
