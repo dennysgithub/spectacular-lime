@@ -45,6 +45,45 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/hero_rounded.jpg
+  - features:
+      - content: >
+          ### Lär dig mer om hur du nyttjar Google My Business för att få fler
+          kunder.
+
+
+          Ta del av tips & råd, fallgropar och saker akta sig för.
+        actions:
+          - label: SEOmetoden på YouTube
+            url: '#'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/k_0jmRvK4gs" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+    feature_padding_vert: medium
+    align: center
+    padding_top: none
+    padding_bottom: none
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
@@ -98,45 +137,6 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - features:
-      - content: >
-          ### Lär dig mer om hur du nyttjar Google My Business för att få fler
-          kunder.
-
-
-          Ta del av tips & råd, fallgropar och saker akta sig för.
-        actions:
-          - label: SEOmetoden på YouTube
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/k_0jmRvK4gs" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-    feature_padding_vert: medium
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - type: features_section
     features:
       - title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
