@@ -10,8 +10,8 @@ sections:
       Maps sökresultat.
 
 
-      Jag ger er sedan en kort sammanfattning av resultatet och hur ni kan göra
-      för att dra nytta av analysen på bästa sätt.
+      Jag ger er sedan en kort sammanfattning av resultatet och **hur ni kan
+      göra för att dra nytta av analysen på bästa sätt.**
     actions:
       - label: Gratis rankinganalys
         url: '#'
