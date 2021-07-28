@@ -22,7 +22,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Lär dig mer
+      - label: Se ett smakprov
         url: '#'
         style: secondary
         has_icon: false
