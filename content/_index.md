@@ -47,7 +47,7 @@ sections:
     image: images/remarkable-pineapple.jpg
   - type: features_section
     features:
-      - title: Google My Business är din snabbaste väg till fler kunder idag.
+      - title: Varför är Google My Business viktigt?
         subtitle: Det lokala 3-packet är var lokala företagare håvar in kunderna.
         content: >
           *   Det lokala 3-packet är det första kunder ser i [93% av
