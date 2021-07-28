@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: Nummer två är bäst.
+  - title: Andraplatsen är bäst.
     subtitle: >-
       Det viktiga är inte att vara nummer ett. Det viktiga är att dyka upp i så
       många lokala 3-pack som möjligt.
