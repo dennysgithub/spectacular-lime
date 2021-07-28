@@ -5,11 +5,13 @@ sections:
     subtitle: >-
       Det viktiga är inte att vara nummer ett. Det viktiga är att dyka upp i så
       många lokala 3-pack som möjligt.
-    content: >+
+    content: >
       Med min rankinganalys tar jag reda på hur du syns i över 80 olika Google
-      Maps sökresultat och sammanfattar resultatet och rådger dig hur du ska se
-      på analysen och hur du drar nytta av den.
+      Maps sökresultat.
 
+
+      Vi går sedan igenom resultatet tillsammans och jag ger rådger dig hur du
+      ska se på analysen och hur du drar nytta av den.
     actions:
       - label: Gratis rankinganalys
         url: '#'
