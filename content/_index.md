@@ -10,8 +10,8 @@ sections:
       Maps sökresultat.
 
 
-      Vi går sedan igenom resultatet tillsammans och jag ger rådger dig hur du
-      ska se på analysen och hur du drar nytta av den.
+      Vi går sedan igenom resultatet tillsammans och jag ger rådgör för dig hur
+      du drar nytta av analysen.
     actions:
       - label: Gratis rankinganalys
         url: '#'
