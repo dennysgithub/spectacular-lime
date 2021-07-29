@@ -87,7 +87,7 @@ sections:
     type: features_section
   - type: features_section
     features:
-      - title: Varför är Google My Business så viktigt?
+      - title: Varför är det lokala 3-packet så viktigt?
         subtitle: Det är det bästa lokala
         content: |
           *   Det är framtiden för ditt lokala företag.
