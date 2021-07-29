@@ -74,7 +74,6 @@ sections:
           av fula metoder som strider mot Googles riktlinjer **och det kostar
           dig pengar.**
         actions: []
-        image: images/magnificent-lime.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
