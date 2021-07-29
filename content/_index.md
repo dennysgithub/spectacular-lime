@@ -46,6 +46,31 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/forsta.png
+  - type: features_section
+    features:
+      - title: Varför är Google My Business så viktigt?
+        subtitle: >-
+          Det viktigaste du kan göra som lokal företagare är att försöka ta dig
+          in i det lokala 3-packet.
+        content: >
+          Donut-diagrammet talar sitt tydliga språk och är baserat på en [Moz
+          studie du hittar här.](www.google.com)
+        actions:
+          - label: Läs mer
+            url: '#lar-dig-mer'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/test.png
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
+    align: center
+    background_color: none
+    padding_top: medium
+    padding_bottom: small
   - features:
       - content: >
           ### Visste du att konkurrenter fuskar & stjäl kunder?
@@ -85,31 +110,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: features_section
-    features:
-      - title: Varför är Google My Business så viktigt?
-        subtitle: >-
-          Det viktigaste du kan göra som lokal företagare är att försöka ta dig
-          in i det lokala 3-packet.
-        content: >
-          Donut-diagrammet talar sitt tydliga språk och är baserat på en [Moz
-          studie du hittar här.](www.google.com)
-        actions:
-          - label: Läs mer
-            url: '#lar-dig-mer'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/test.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: none
-    padding_top: medium
-    padding_bottom: small
   - type: features_section
     features:
       - title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
