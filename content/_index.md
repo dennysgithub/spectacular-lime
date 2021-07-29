@@ -66,7 +66,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
     padding_top: small
     padding_bottom: small
   - features:
