@@ -49,9 +49,7 @@ sections:
   - type: features_section
     features:
       - title: Varför är Google My Business så viktigt?
-        subtitle: >-
-          Det viktigaste du kan göra som lokal företagare är att försöka ta dig
-          in i det lokala 3-packet.
+        subtitle: För det är där användare klickar allra mest vid lokala sökningar!
         content: >
           Donut-diagrammet talar sitt tydliga språk och är baserat på en [Moz
           studie du hittar här.](www.google.com)
