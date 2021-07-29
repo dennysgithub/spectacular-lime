@@ -66,7 +66,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    padding_top: small
+    padding_top: none
     padding_bottom: small
   - type: features_section
     features:
