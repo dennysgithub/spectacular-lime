@@ -67,8 +67,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - subtitle: lorem-ipsum
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="560" height="315"
