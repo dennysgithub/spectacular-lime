@@ -98,7 +98,7 @@ sections:
 
           *   Läs blogginlägget så kommer du att förstå vikten av optimerad GMB.
         actions:
-          - label: Lär dig mer
+          - label: Läs mer
             url: '#lar-dig-mer'
             style: primary
             has_icon: true
