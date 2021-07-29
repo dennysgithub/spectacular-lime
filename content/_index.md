@@ -48,10 +48,7 @@ sections:
     image: images/forsta.png
   - type: features_section
     features:
-      - subtitle: >-
-          Det kan mycket väl vara så att flera av dina konkurrenter använder sig
-          av fula metoder som strider mot Googles riktlinjer och det kostar dig
-          pengar.
+      - subtitle: Visste du att konkurrenter fuskar & stjäl kunder
         content: |
           ****
         actions: []
