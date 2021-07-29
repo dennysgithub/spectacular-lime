@@ -47,7 +47,7 @@ sections:
     type: hero_section
     image: images/forsta.png
   - actions: []
-    blog_feed_cols: two
+    blog_feed_cols: three
     enable_cards: false
     show_recent: true
     recent_count: 2
