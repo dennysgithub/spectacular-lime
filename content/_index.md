@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/cool-mustard.png
+        image: images/chart(2).png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
