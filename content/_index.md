@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/chart(3).png
+        image: images/chart(4).png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
