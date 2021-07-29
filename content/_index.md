@@ -88,9 +88,7 @@ sections:
   - type: features_section
     features:
       - title: Varför är Google My Business så viktigt?
-        subtitle: >-
-          Då är det viktigaste du kan göra att ta dig in i 3-packet för att få
-          fler samtal & kunder.
+        subtitle: Det är det bästa lokala
         content: |
           *   Det är framtiden för ditt lokala företag.
 
