@@ -11,7 +11,8 @@ sections:
 
 
       Ni får en färgglatt illustrerande bild över hur just er situation ser ut
-      samt en överskådlig lista som visar hur era konkurrenter rankas.
+      samt en överskådlig lista som visar era konkurrenters ranking, en efter
+      en.
     actions:
       - label: Gratis rankinganalys
         url: '#'
