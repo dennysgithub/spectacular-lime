@@ -48,7 +48,7 @@ sections:
     image: images/forsta.png
   - type: features_section
     features:
-      - subtitle: 'Visste du att konkurrenter fuskar & stjäl kunder '
+      - subtitle: Visste du att konkurrenter fuskar & stjäl kunder på Google Maps?
         content: |
           ****
         actions: []
