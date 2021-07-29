@@ -131,8 +131,7 @@ sections:
             type: action
     feature_padding_vert: small
     background_color: none
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
