@@ -68,8 +68,7 @@ sections:
     type: blog_feed_section
   - type: features_section
     features:
-      - title: Varför är Google My Business så viktigt?
-        subtitle: För det är där användare klickar allra mest vid lokala sökningar!
+      - subtitle: För det är där användare klickar allra mest vid lokala sökningar!
         content: >
           Donut-diagrammet talar sitt tydliga språk och är baserat på en [Moz
           studie du hittar här.](www.google.com)
