@@ -73,13 +73,7 @@ sections:
           Det kan mycket väl vara så att flera av dina konkurrenter använder sig
           av fula metoder som strider mot Googles riktlinjer **och det kostar
           dig pengar.**
-        actions:
-          - label: Läs mer
-            url: '#lar-dig-mer'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/magnificent-lime.png
         image_alt: Feature 1 placeholder image
         media_position: right
