@@ -109,7 +109,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    padding_top: small
+    padding_top: medium
     padding_bottom: small
   - type: features_section
     features:
