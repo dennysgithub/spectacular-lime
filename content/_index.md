@@ -67,8 +67,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
