@@ -68,7 +68,7 @@ sections:
     type: blog_feed_section
   - type: features_section
     features:
-      - subtitle: För det är där användare klickar allra mest vid lokala sökningar!
+      - subtitle: Visste du att konkurrenter fuskar & stjäl kunder på Google Maps?
         content: >
           Donut-diagrammet talar sitt tydliga språk och är baserat på en [Moz
           studie du hittar här.](www.google.com)
