@@ -67,7 +67,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: none
-    padding_bottom: small
+    padding_bottom: none
   - type: features_section
     features:
       - title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
