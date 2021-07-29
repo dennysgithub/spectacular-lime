@@ -50,7 +50,7 @@ sections:
     features:
       - subtitle: Visste du att konkurrenter fuskar & stjäl kunder på Google Maps?
         content: |
-          ****
+          ***
         actions: []
         image_alt: Feature 1 placeholder image
         media_position: right
