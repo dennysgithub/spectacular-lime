@@ -91,9 +91,10 @@ sections:
         subtitle: >-
           Det viktigaste du kan göra som lokal företagare är att försöka ta dig
           in i det lokala 3-packet.
-        content: >
+        content: >+
           Donutdiagrammet talar sitt tydliga språk och är baserad på en [Moz
-          studie du kan se här.](www.google.com)
+          studie du hittar här.](www.google.com)
+
         actions:
           - label: Läs mer
             url: '#lar-dig-mer'
