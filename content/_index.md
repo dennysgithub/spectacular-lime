@@ -48,26 +48,6 @@ sections:
     image: images/forsta.png
   - type: features_section
     features:
-      - subtitle: Visste du att konkurrenter fuskar & stjäl kunder på Google Maps?
-        content: |
-          ***
-        actions: []
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/IBEnDuEbpmo" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
-    padding_top: none
-    padding_bottom: none
-  - type: features_section
-    features:
       - title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
         subtitle: >-
           Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
