@@ -70,8 +70,9 @@ sections:
     features:
       - subtitle: Visste du att konkurrenter fuskar & stjäl kunder på Google Maps?
         content: >
-          Donut-diagrammet talar sitt tydliga språk och är baserat på en [Moz
-          studie du hittar här.](www.google.com)
+          Det kan mycket väl vara så att flera av dina konkurrenter använder sig
+          av fula metoder som strider mot Googles riktlinjer **och det kostar
+          dig pengar.**
         actions:
           - label: Läs mer
             url: '#lar-dig-mer'
