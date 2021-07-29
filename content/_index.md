@@ -91,8 +91,7 @@ sections:
         type: feature
     feature_padding_vert: small
     background_color: none
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
