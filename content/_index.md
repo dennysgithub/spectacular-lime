@@ -87,9 +87,7 @@ sections:
     type: features_section
   - type: features_section
     features:
-      - title: >-
-          Att ta sig in i 3-packet är DET viktigaste du kan göra som lokal
-          företagare för att få fler kunder.
+      - title: Är du en lokal företagare?
         subtitle: >-
           Då är det viktigaste du kan göra att ta dig in i 3-packet för att få
           fler samtal & kunder.
