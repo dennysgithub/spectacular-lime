@@ -46,8 +46,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/forsta.png
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     blog_feed_cols: two
     enable_cards: false
     show_recent: true
