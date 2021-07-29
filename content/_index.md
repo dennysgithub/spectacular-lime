@@ -7,11 +7,11 @@ sections:
       många lokala 3-pack som möjligt.
     content: >
       Med min rankinganalys tar jag reda på hur ni rankar i över 80 olika Google
-      Maps sökresultat. 
+      Maps sökresultat.
 
 
-      Ni får en färgglatt illustrerande bild över hur situationen och jag ger
-      matnyttiga tips hur ni faktiskt drar nytta av informationen också. 
+      Ni får en färgglatt illustrerande bild över hur just er situation ser ut
+      samt en överskådlig lista som visar hur era konkurrenter rankas.
     actions:
       - label: Gratis rankinganalys
         url: '#'
