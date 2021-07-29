@@ -88,7 +88,9 @@ sections:
   - type: features_section
     features:
       - title: Är du en lokal företagare?
-        subtitle: Det lokala 3-packet är var lokala företagare håvar in kunderna.
+        subtitle: >-
+          Då är det viktigaste du kan göra att ta dig in i 3-packet för att få
+          fler samtal & kunder.
         content: |
           *   Det är framtiden för ditt lokala företag.
 
