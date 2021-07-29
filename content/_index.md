@@ -64,7 +64,6 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-        title: Visste du att konkurrenter fuskar & stjäl kunder på Google Maps?
     feature_padding_vert: large
     align: center
     background_color: secondary
