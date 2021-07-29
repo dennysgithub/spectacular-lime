@@ -46,45 +46,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/forsta.png
-  - features:
-      - content: >
-          ### Visste du att konkurrenter fuskar & stjäl kunder i Google Maps?
-
-
-          Det är mycket möjligt att flera av dina konkurrenter inte följer
-          Google's riktlinjer och pga det **förlorar du kunder.**
-        actions:
-          - label: Se mer på YouTube
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/k_0jmRvK4gs" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-    feature_padding_vert: medium
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - actions: []
     blog_feed_cols: three
     enable_cards: false
