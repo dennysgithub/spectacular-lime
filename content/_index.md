@@ -48,7 +48,7 @@ sections:
     image: images/forsta.png
   - features:
       - content: >
-          ### Visste du att konkurrenter fuskar & stjäl kunder?
+          ### Visste du att konkurrenter fuskar & stjäl kunder i Google Maps?
 
 
           Det är mycket möjligt att flera av dina konkurrenter inte följer
